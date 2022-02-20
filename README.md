@@ -33,4 +33,4 @@ December:
 
 ![](https://raw.githubusercontent.com/CarlS2rt/surfs_up/main/images/Dec_Prcp.png)
 
-The average rainfall in both June and December is less than 1/20th of an inch for a single day, and the IQR for both months is less than 3/20ths of an inch. Accordingly, Oahu also receives very little rain on average. With both ideal temperatures and precipitation, it can then be concluded that Oahu is an ideal spot for a surf shop and presents very low investment risk.
+The average rainfall in both June and December is less than 1/20th of an inch for a single day, and the IQR for both months is less than 3/20ths of an inch. Accordingly, Oahu also receives very little rain on average. With both ideal temperatures and precipitation averages, it can then be concluded that Oahu is an ideal spot for a surf shop and presents very low investment risk.
